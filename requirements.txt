@@ -6,7 +6,7 @@ keybert
 sentence-transformers
 networkx
 matplotlib
-whisper
+openai-whisper
 torch
 faiss-cpu
 graphviz
