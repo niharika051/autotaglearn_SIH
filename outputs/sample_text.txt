@@ -1,0 +1,66 @@
+AutoTagLearn: An NLP-Based System for 
+Intelligent Keyword Extraction and 
+Conceptual Flowcharting in Academic 
+Content
+By:
+Niharika Ravi Kumar 
+Roll no: 31 
+Guide:
+Mrs. Leena Chakraborty
+PROBLEM STATEMENT
+1. Students struggle with unorganized, untagged 
+educational content.
+2. Manual tagging is time-consuming and often 
+inconsistent.
+3. Lack of intelligent resource discovery through semantic 
+search.
+4. Need: An automated, AI-driven platform to manage and 
+recommend academic resources based on context.
+ 
+LITERATURE REVIEW
+1. Topic Modeling for Educational Documents using BERTopic
+Publisher: Elsevier, 2021
+Key Idea: Applied unsupervised BERTopic to identify broad academic themes.
+Limitation: Topics lacked granularity and learner-specific context.
+What We Improve: AutoTagLearn grounds tagging in actual course/subject modules, 
+offering fine-grained, context-driven tags.
+2. Enhancing Tagging of Learning Content using Semantic Similarity Measures
+Publisher: IEEE, 2021
+Key Idea: Used TF-IDF and cosine similarity for static tag matching.
+Limitation: Struggled with contextual understanding.
+What We Improve: AutoTagLearn leverages contextualized embeddings (BERT) to 
+offer richer, more accurate tag suggestions.
+ 
+SURVEY REVIEW
+ 
+SURVEY REVIEW
+ 
+Objective of the Project
+1. To build a web-based application that:
+•
+Automatically tags uploaded educational content 
+using NLP.
+•
+Allows users to upload, manage, and search study 
+materials.
+•
+Recommends relevant content based on user 
+behavior and tags.
+2. Improve accessibility and discoverability of learning 
+materials.
+Tools and Technologies Used
+System Architecture Diagram
+NLP & AutoTagging Workflow
+Module Division (Phase-wise Breakdown)
+Data Flow Diagram (DFD Level 1)
+Conclusion
+•
+ AutoTagLearn aims to streamline educational content discovery using AI.
+•
+ Addresses accessibility and organization challenges for learners.
+•
+  Future Scope:
+Multi-language support
+Question-answer generation from notes
+Voice/audio tagging
+THANK YOU 
